@@ -215,7 +215,7 @@ box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 }
 .navbar-brand b {
 	color: #191000;
-	font-family: 'Open Sans';
+	font-family: 'Arial', bold;
 	font-weight: 400;
 }
 .logo {
